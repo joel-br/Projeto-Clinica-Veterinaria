@@ -1,0 +1,5 @@
+- Secretária registra a consulta
+- Se o cliente/animal não estiver cadastrados, abre a tela de cadastro
+- Consulta deve ter sintomas
+- Tratamento é o conjunto de consultas
+- A tela de consulta deve ter acesso pra tela de exames
