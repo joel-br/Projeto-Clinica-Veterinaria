@@ -3,4 +3,6 @@
 - Consulta deve ter sintomas
 - Tratamento é o conjunto de consultas
 - A tela de consulta deve ter acesso pra tela de exames
-teste
+
+// Perguntas
+- Qual a importância do Veterinário? Precisa do histórico?
